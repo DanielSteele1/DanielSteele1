@@ -8,6 +8,7 @@ My LinkedIn Profile: https://www.linkedin.com/in/daniel-steele-b06443198/
 
 <!-- Visitor count --> 
 Visitor Count: 
+
 ![Visitor Count](https://profile-counter.glitch.me/DanielSteele1/count.svg)
 
 <!--
