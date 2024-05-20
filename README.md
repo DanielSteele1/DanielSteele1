@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/DanielSteele1/count.svg)
 
 <!--
 **DanielSteele1/DanielSteele1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
