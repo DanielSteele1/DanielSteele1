@@ -3,8 +3,11 @@ I'm Daniel Steele, a Full Stack Developer in my final year of Computer Science(B
 I build full stack web applications using the MERN Stack, and utilising different APIs in my projects. 
 In my course, I have also tinkered with C++ to create console based games, and used OpenGL to create different scenes and environments.
 
-<!-- My Portfolio Website: -->
+<!-- My LinkedIn: -->
 My LinkedIn Profile: https://www.linkedin.com/in/daniel-steele-b06443198/
+
+<!-- My Portfolio Website --> 
+My Portfolio Site: https://danielsteele1.github.io
 
 <!-- Visitor count --> 
 Visitor Count: 
