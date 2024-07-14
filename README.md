@@ -7,7 +7,7 @@ In my course, I have also tinkered with C++ to create console based games, and u
 My LinkedIn Profile: https://www.linkedin.com/in/daniel-steele-b06443198/
 
 <!-- My Portfolio Website --> 
-My Portfolio Site: https://danielsteele1.github.io
+My Portfolio Site: https://danielsteele.dev
 
 <!-- Visitor count --> 
 Visitor Count: 
