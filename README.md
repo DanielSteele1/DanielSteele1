@@ -1,4 +1,4 @@
-I'm Daniel Steele, a Full Stack Developer in my final year of Computer Science(BSc Hons) at the University of Plymouth.
+I'm Daniel Steele, a new graduate from the University of Plymouth, and Full Stack Developer.
 
 I build full stack web applications using the MERN Stack, and utilising different APIs in my projects. 
 In my course, I have also tinkered with C++ to create console based games, and used OpenGL to create different 3D scenes and environments.
