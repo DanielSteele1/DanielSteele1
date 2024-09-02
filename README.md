@@ -30,7 +30,7 @@ My Portfolio Site: https://danielsteele.dev
 
 
 <!-- Visitor count --> 
-Visitor Count: 
+### Visitor Count: 
 
 ![Visitor Count](https://profile-counter.glitch.me/DanielSteele1/count.svg)
 
