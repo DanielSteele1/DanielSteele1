@@ -6,9 +6,9 @@ I build full stack web applications using the MERN Stack, and utilising differen
 In my course, I have also tinkered with C++ to create console based games, and used OpenGL to create different 3D scenes and environments.
 
 <!-- My LinkedIn: -->
-My LinkedIn Profile: https://www.linkedin.com/in/daniel-steele-b06443198/
+### 📋My LinkedIn Profile: https://www.linkedin.com/in/daniel-steele-b06443198/
 <!-- My Portfolio Website --> 
-My Portfolio Site: https://danielsteele.dev
+### 🕸️My Portfolio Site: https://danielsteele.dev
 
 ### 🛠️ Languages I use : 🛠️
 
