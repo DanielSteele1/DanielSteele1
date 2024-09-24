@@ -11,7 +11,7 @@ In my course, I have also tinkered with C++ to create console based games, and u
   <!-- My Portfolio Website --> 
   <h3> 🕸️My Portfolio Site: <a href="https://danielsteele.dev">https://danielsteele.dev</a></h3>
 
-<h1>🛠️ Languages I use : 🛠️ </h1>
+<h1>🛠️ Languages & Technologies I use : 🛠️ </h1>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>
 
