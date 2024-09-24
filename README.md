@@ -34,7 +34,7 @@ In my course, I have also tinkered with C++ to create console based games, and u
 
 
 <!-- Visitor count --> 
-<h1>Visitor Count:  </h1> 
+<!--<h1>Visitor Count:  </h1> 
 
-![Visitor Count](https://profile-counter.glitch.me/DanielSteele1/count.svg)
-</div>
+<!--![Visitor Count](https://profile-counter.glitch.me/DanielSteele1/count.svg)
+<!--</div>
