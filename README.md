@@ -4,7 +4,7 @@
 <p1> I'm Daniel Steele, a new graduate from the University of Plymouth, and Full Stack Developer. </p1>
 
 <p1> I build full stack web applications using the MERN Stack, and utilising different APIs in my projects. 
-In my course, I have also tinkered with C++ to create console based games, and used OpenGL to create different 3D scenes and environments. </p1>
+I have also tinkered with C++ to create console based games, and used OpenGL to create different 3D scenes and environments. </p1>
 
 <!-- My LinkedIn: -->
   <h3>📋My LinkedIn Profile: <a href="https://www.linkedin.com/in/daniel-steele-b06443198/">https://www.linkedin.com/in/daniel-steele-b06443198/</a></h3>
