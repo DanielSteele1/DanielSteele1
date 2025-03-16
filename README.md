@@ -1,3 +1,5 @@
+
+
 <div "align: center">
   <h1> 💻 Daniel Steele - Full Stack Developer </h1>
 
@@ -5,13 +7,21 @@
 
 <p1> I build full stack web applications using the MERN Stack, and utilising different APIs in my projects. 
 I have also tinkered with C++ to create console based games, and have used OpenGL to create different 3D scenes and environments. </p1>
+</div>
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danielsteele.dev) 
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-steele-b06443198/) 
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsteele1906@gmail.com)
 
-<!-- My LinkedIn: -->
-  <h3>📋My LinkedIn Profile: <a href="https://www.linkedin.com/in/daniel-steele-b06443198/">https://www.linkedin.com/in/daniel-steele-b06443198/</a></h3>
-  <!-- My Portfolio Website --> 
-  <h3> 🕸️My Portfolio Site: <a href="https://danielsteele.dev">https://danielsteele.dev</a></h3>
+</div>
+
+![Visitor Count](https://hitcount.herokuapp.com/count/tag.svg?url=https://github.com/danielsteele1)
 
 <h1>🛠️ Languages & Technologies I use : 🛠️ </h1>
+
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>
 
@@ -35,7 +45,5 @@ I have also tinkered with C++ to create console based games, and have used OpenG
 
 
 <!-- Visitor count --> 
-<!--<h1>Visitor Count:  </h1> 
-
-<!--![Visitor Count](https://profile-counter.glitch.me/DanielSteele1/count.svg)
-<!--</div>
+<h1>Visitor Count:  </h1> 
+<</div>
