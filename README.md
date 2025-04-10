@@ -6,7 +6,7 @@
     <p1> Hi! My name is Daniel Steele, a graduate from the University of Plymouth, UK. </p1>
            <br>
            <br>
-        <p1> I'm currently looking for full-time opportunities in the UK. If you'd like to get in touch, feel free to reach out. I’d be happy to connect with you! </p1>
+        <p1> 💼 I'm currently looking for full-time opportunities in the UK. If you'd like to get in touch, feel free to reach out. I’d be happy to connect with you! </p1>
 </div> 
         &nbsp;&nbsp;&nbsp;
 
