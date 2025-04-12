@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://geps.dev/progress/60" alt="Progress" />
+    <img src="https://geps.dev/progress/70" alt="Progress" />
   </div>
 </div>
 
