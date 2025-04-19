@@ -2,7 +2,7 @@
 
  <div align="center">
    
- <h2> 🚀 Daniel Steele - Full Stack Developer </h2>
+ <h2> ✨ Daniel Steele - Full Stack Developer </h2>
     <p1> Hi! My name is Daniel Steele, a graduate from the University of Plymouth, UK. </p1>
            <br>
            <br>
