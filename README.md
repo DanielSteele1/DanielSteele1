@@ -33,12 +33,14 @@
 </div>
 
   <ul align="left" style="display: inline-block; text-align: left; list-style-type: none; padding: 0;">
-    <ul> 🔹 I develop full-stack web applications using the <b>MERN Stack</b> (MongoDB, Express.js, React, Node.js).</ul>
+    <ul> 🔹 I develop frontend and fullstack web applications, mainly using the <b>MERN Stack</b> (MongoDB, Express.js, React, Node.js).</ul>
     <ul> 🔹 I mainly write code with TypeScript & ReactJS, but I can also code with other languages & frameworks.</ul>
     <ul> 🔹 I Build with and integrate APIs into all my projects to enhance functionality and user experience.</ul>
     <ul> 🔹 I've also experimented development in <b>C++</b> with <b>OpenGL</b> to create 3D environments and visualizations.</ul>
-    <ul> 🔹 I'm also continuously learning and adopting new technologies to improve my skill set.</ul>
+    <ul> 🔹 I'm continuously learning and adopting new technologies to improve my skill set.</ul>
   </ul>
+
+ -> Please, do not clone my work unless you are a recruiter. If you copy my work and try to pass it off as your own without your own unique edits (this has happened before!), I will know.
 
 <div align="center">
     
