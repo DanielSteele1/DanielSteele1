@@ -2,7 +2,7 @@
 
  <div align="center">
    
- <h2> ✨ Daniel Steele - Full Stack Developer </h2>
+ <h2> ✨ Daniel Steele - Front End Developer </h2>
     <p1> Hi! My name is Daniel Steele, a graduate from the University of Plymouth, UK. </p1>
            <br>
            <br>
@@ -21,14 +21,12 @@
 </div>
 
 <div align="center">
-  <ul> 🔥 I'm currently working on a project called FocusDev, a developer dashboard to help increase productivity and save time. </ul>
+  <ul> 🔥 I'm currently working on a Trello Based Kanban Board Application using TS & React. </ul>
   
   <div style="display: flex; align-items: center; justify-content: center;">
-    <a href="https://github.com/Danielsteele1/FocusDev">
+    <a href="https://github.com/DanielSteele1/Trello-Clone">
       <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
     </a>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://geps.dev/progress/75" alt="Progress" />
   </div>
 </div>
 
@@ -40,17 +38,12 @@
     <ul> 🔹 I'm continuously learning and adopting new technologies to improve my skill set.</ul>
   </ul>
 
-
    Feel free to Star my projects if you find them interesting!
 
  -> Please, do not clone my work unless you are a recruiter. If you copy my work and try to pass it off as your own without your own unique edits (this has happened before!), I will know.
 
 <div align="center">
-    
-  <h2> 📊 Total visitors 👀 </h2>
-  
-![Visitor Count](https://profile-counter.glitch.me/danielsteele1/count.svg)
-
+ 
 <h2> 🛠️ Tech Stack and Tools: </h2>
   &nbsp;&nbsp;&nbsp;
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
