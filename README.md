@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <ul> 🔥 I'm currently working on a Trello Based Kanban Board Application using TS & React. </ul>
+  <ul> 🔥 I'm currently finishing up orbit - a kanban/google keep inspired productivity tracker in TS & React. </ul>
   
   <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://github.com/DanielSteele1/Trello-Clone">
