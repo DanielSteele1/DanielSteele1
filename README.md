@@ -1,6 +1,11 @@
 
 
  <div align="center">
+
+
+
+ <img width="1038" height="224" alt="image" src="https://github.com/user-attachments/assets/60cc6375-437f-4725-abb7-06f7cb6f4a7e" />
+
    
  <h2> ✨ Daniel Steele - Front End Developer </h2>
     <p1> Hi! My name is Daniel Steele, a graduate from the University of Plymouth, UK. </p1>
