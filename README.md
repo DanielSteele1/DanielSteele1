@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <ul> 🔥 Currently working on a reddit statistics dashboard </ul>
+  <ul> 🔥 Currently working on a Spotify Stats dashboard </ul>
   
   <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://github.com/DanielSteele1/Trello-Clone">
