@@ -45,8 +45,6 @@
 
    Feel free to Star my projects if you find them interesting!
 
- -> Please, do not clone my work unless you are a recruiter. If you copy my work and try to pass it off as your own without your own unique edits (this has happened before!), I will know.
-
 <div align="center">
  
 <h2> 🛠️ Tech Stack and Tools: </h2>
