@@ -7,13 +7,16 @@
  <img width="1038" height="224" alt="image" src="https://github.com/user-attachments/assets/60cc6375-437f-4725-abb7-06f7cb6f4a7e" />
 
    
- <h2> ✨ Daniel Steele - Front End Developer </h2>
+ <h2>  Daniel Steele - Front End Developer </h2>
     <p1> Hi! My name is Daniel Steele, a graduate from the University of Plymouth, UK. </p1>
            <br>
            <br>
         <p1> 💼 I'm currently looking for any opportunities in the UK. </p1>
         <br>
-        <p1> I'm open to anyone looking to collaberate. I'd love to help with any ongoing projects. </p1>
+        <br>
+        <p1> 🏗️ I'm open to anyone looking to collaberate. I'd love to help with any ongoing projects. </p1>
+        <br>
+        <br>
         <p1> If you'd like to get in touch, feel free to reach out. I’d be happy to connect with you! </p1>
 </div> 
         &nbsp;&nbsp;&nbsp;
