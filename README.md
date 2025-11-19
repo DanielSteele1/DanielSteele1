@@ -1,23 +1,19 @@
 
 
- <div align="center">
-
-
+ <div align="left">
 
  <img width="1038" height="224" alt="image" src="https://github.com/user-attachments/assets/60cc6375-437f-4725-abb7-06f7cb6f4a7e" />
 
-   
- <h2>  Daniel Steele - Front End Developer </h2>
-    <p1> Hi! My name is Daniel Steele, a graduate from the University of Plymouth, UK. </p1>
-           <br>
-           <br>
-        <p1> 💼 I'm currently looking for any opportunities in the UK. </p1>
-        <br>
-        <br>
-        <p1> 🏗️ I'm open to anyone looking to collaberate. I'd love to help with any ongoing projects. </p1>
-        <br>
-        <br>
-        <p1> If you'd like to get in touch, feel free to reach out. I’d be happy to connect with you! </p1>
+ <div align="left"> 
+  <div align="center">
+    <h2 align="center"> Hi! My name is Daniel Steele, a graduate from the University of Plymouth, UK. </h2>
+  </div>
+  <ul> 
+        <ul> 💼 I'm currently looking for any opportunities in the UK. </ul>
+        <ul> 🏗️ I'm open to anyone looking to collaberate. I'd love to help with any ongoing projects. </ul>
+        <ul> 🔹 If you'd like to get in touch, feel free to reach out. I’d be happy to connect with you! </ul>
+  </ul>
+ </div>
 </div> 
         &nbsp;&nbsp;&nbsp;
 
@@ -32,16 +28,10 @@
 </div>
 
 <div align="center">
-  <ul> 🔥 Currently working on a Spotify Stats dashboard </ul>
-  
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <a href="https://github.com/DanielSteele1/Trello-Clone">
-      <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-    </a>
-  </div>
+  <h3> 🔥 Currently working on a Spotify Stats dashboard </h3>
 </div>
 
-  <ul align="left" style="display: inline-block; text-align: left; list-style-type: none; padding: 0;">
+  <ul align="center" style="display: inline-block; text-align: left; list-style-type: none; padding: 0;">
     <ul> 🔹 I develop frontend and fullstack web applications, mainly using the <b>MERN Stack</b> (MongoDB, Express.js, React, Node.js).</ul>
     <ul> 🔹 I mainly write code with TypeScript & ReactJS, but I can also code with other languages & frameworks.</ul>
     <ul> 🔹 I Build with and integrate APIs into all my projects to enhance functionality and user experience.</ul>
@@ -49,12 +39,13 @@
     <ul> 🔹 I'm continuously learning and adopting new technologies to improve my skill set.</ul>
   </ul>
 
+<h2 align="center">
    Feel free to Star my projects if you find them interesting!
+</h2>
 
-<div align="center">
+<div align="left">
  
 <h2> 🛠️ Tech Stack and Tools: </h2>
-  &nbsp;&nbsp;&nbsp;
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
    &nbsp;&nbsp;&nbsp;
