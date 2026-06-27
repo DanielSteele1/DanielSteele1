@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <h3> 🔥 Currently working on a Spotify Stats dashboard </h3>
+  <h3> 🔥 Currently finishing up a Jobs portal dashboard app </h3>
 </div>
 
   <ul align="center" style="display: inline-block; text-align: left; list-style-type: none; padding: 0;">
