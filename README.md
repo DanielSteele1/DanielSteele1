@@ -10,9 +10,9 @@
     <h2 align="center"> Hi! My name is Daniel Steele, a graduate from the University of Plymouth, UK. </h2>
   </div>
   <ul> 
-        <ul> 💼 I'm currently looking for any opportunities in the UK. </ul>
-        <ul> 🏗️ I'm open to anyone looking to collaberate. I'd love to help with any ongoing projects. </ul>
-        <ul> 🔹 If you'd like to get in touch, feel free to reach out. I’d be happy to connect with you! </ul>
+        <ul> I'm currently looking for any opportunities in the UK. </ul>
+        <ul> I'm open to anyone looking to collaborate. I'd love to help with any ongoing projects. </ul>
+        <ul> If you'd like to get in touch, feel free to reach out. I’d be happy to connect with you! </ul>
   </ul>
  </div>
 </div> 
@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <h3> 🔥 Currently finishing up a Jobs portal dashboard app </h3>
+  <h3>  Currently Starting a real time collaborative whiteboard app </h3>
 </div>
 
   <ul align="center" style="display: inline-block; text-align: left; list-style-type: none; padding: 0;">
