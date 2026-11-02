@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/90009629?v=4" alt="Daniel Steele" width="98" />
-
 <h1>Hi, I’m Daniel Steele 👋</h1>
 
 <p><strong>Frontend & Full Stack Developer</strong></p>
