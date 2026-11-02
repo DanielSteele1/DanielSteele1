@@ -36,6 +36,25 @@ Front end & Full-Stack web Developer / Computer science graduate from the Univer
 
 📍 **Based in:** United Kingdom · 🔭 **Current focus:** Building a Collaboration Whiteboard app with Liveblocks · 🌱 **Learning:** Liveblocks
 
+## Tech stack
+
+<p><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/cplusplus" alt="C++" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/react" alt="React" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/chakraui" alt="Chakra UI" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/radixui" alt="Radix UI" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/react" alt="Zustand" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/shadcnui" alt="shadcn/ui" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/express" alt="Express" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/docker" alt="Docker" width="38" height="38" /></p>
+
 ## Featured projects
 
 ### Jobs Portal
@@ -77,25 +96,6 @@ Spotify Stats - Get data of your personal listening history, displayed with char
 <img src="https://img.shields.io/badge/JavaScript--18181b?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript--18181b?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Zustand--18181b?style=flat-square&logo=react&logoColor=white" alt="Zustand" /> <img src="https://img.shields.io/badge/React--18181b?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Vite--18181b?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Supabase--18181b?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/GraphQL%20API--18181b?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL API" />
 
 [Repository](https://github.com/DanielSteele1/Spotify-Statistics-Dashboard) · [Live demo](https://reddit-statistics-app.vercel.app/login)
-
-## Tech stack
-
-<p><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/cplusplus" alt="C++" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/react" alt="React" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/chakraui" alt="Chakra UI" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/radixui" alt="Radix UI" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/react" alt="Zustand" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/shadcnui" alt="shadcn/ui" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/express" alt="Express" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="38" height="38" />
-<img src="https://cdn.simpleicons.org/docker" alt="Docker" width="38" height="38" /></p>
 
 <div align="center">
 
