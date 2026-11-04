@@ -54,17 +54,6 @@ Front end & Full-Stack web Developer / Computer science graduate from the Univer
 <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="38" height="38" /></p>
 
 ## Featured projects
-
-### Jobs Portal
-
-Job's portal web application - Frontend web application coded with ReactJs and TypeScript.
-
-This web application features a jobs board using Adzuna's public API, and allows users to save, apply and track current job postings. They'll be able to saved notes to each job as well as move a job saved, to interviewing and then to and offers tab. User accounts are planned by implementing Supabase.
-
-<img src="https://img.shields.io/badge/JavaScript--18181b?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript--18181b?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React--18181b?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Supabase--18181b?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Zustand--18181b?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
-
-[Repository](https://github.com/DanielSteele1/Jobs-Portal) · [Live demo](job-board-murex-eight.vercel.app/)
-
 ---
 
 ### Real-time-collaborative-Whiteboard
@@ -74,6 +63,17 @@ A real time collaborative whiteboard application, coded in ReactJs and TS, and u
 <img src="https://img.shields.io/badge/JavaScript--18181b?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript--18181b?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React--18181b?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Zustand--18181b?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
 
 [Repository](https://github.com/DanielSteele1/collab-board) · [Live demo](https://collaborative-whiteboard-two-sigma.vercel.app/)
+
+---
+### Jobs Portal
+
+Job's portal web application - Frontend web application coded with ReactJs and TypeScript.
+
+This web application features a jobs board using Adzuna's public API, and allows users to save, apply and track current job postings. They'll be able to saved notes to each job as well as move a job saved, to interviewing and then to and offers tab. User accounts are planned by implementing Supabase.
+
+<img src="https://img.shields.io/badge/JavaScript--18181b?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript--18181b?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React--18181b?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Supabase--18181b?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Zustand--18181b?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+
+[Repository](https://github.com/DanielSteele1/Jobs-Portal) · [Live demo](job-board-murex-eight.vercel.app/)
 
 ---
 
